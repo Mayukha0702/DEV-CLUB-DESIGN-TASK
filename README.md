@@ -23,10 +23,10 @@ A structured monthly update format with sections for highlights, achievements, a
 
 ## Mockups
 
-Preview screenshots of both templates with sample content are available in the `/mockups` folder:
+Preview screenshots of both templates with sample content are available in the `/MOCKUPS` folder:
 
-- `event-recap.png`
-- `monthly-digest.png`
+- MOCKUPS/EVENT RECAP.jpg
+- 
 
 ---
 
