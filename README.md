@@ -26,7 +26,7 @@ A structured monthly update format with sections for highlights, achievements, a
 Preview screenshots of both templates with sample content are available in the `/MOCKUPS` folder:
 
 ### Event Recap Template
-- [Event Recap](MOCKUPS/event-recap.jpg)
+- [Event Recap](MOCKUPS/event-recap.jpg.jpg)
 
 - 
 
