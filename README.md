@@ -17,7 +17,7 @@ Designed a clean, attractive layout for post-event summaries. Optimized for mobi
 A structured monthly update format with sections for highlights, achievements, and upcoming events.
 
 - Designed using : Canva
-- View Design using this link: 
+- View Design using this link: https://www.canva.com/design/DAGq3BZbC8Y/D-Vwa7rKsg839qBmpXamVg/edit?utm_content=DAGq3BZbC8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
@@ -28,7 +28,7 @@ Preview screenshots of both templates with sample content are available in the `
 ### Event Recap Template
 - [Event Recap](MOCKUPS/event-recap.jpg.jpg)
 
-- 
+- [Monthly Digest]
 
 ---
 
