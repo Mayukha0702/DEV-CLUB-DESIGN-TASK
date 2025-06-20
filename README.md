@@ -28,7 +28,7 @@ Preview screenshots of both templates with sample content are available in the `
 ### Event Recap Template
 - [Event Recap](MOCKUPS/event-recap.jpg.jpg)
 
-- [Monthly Digest]
+- [Monthly Digest](MOCKUPS/monthly-digest.jpg)
 
 ---
 
